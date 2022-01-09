@@ -34,3 +34,6 @@ C:\Users\AmineH\projects-dotnet\catalogapp\obj\Debug\netcoreapp3.1\catalogapp.dl
 C:\Users\AmineH\projects-dotnet\catalogapp\obj\Debug\netcoreapp3.1\catalogapp.pdb
 C:\Users\AmineH\projects-dotnet\catalogapp\obj\Debug\netcoreapp3.1\catalogapp.genruntimeconfig.cache
 C:\Users\AmineH\projects-dotnet\catalogapp\obj\Debug\netcoreapp3.1\catalogapp.csproj.CopyComplete
+C:\Users\AmineH\projects-dotnet\catalogapp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\AmineH\projects-dotnet\catalogapp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AmineH\projects-dotnet\catalogapp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
