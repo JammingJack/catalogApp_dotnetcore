@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0Tiv6Lt2z5yogeoxaDq5NMsfcLBwP1rbbWetrOPDr009ZEypqQVo/Itb+WgsEXycCJlD2TYV7K880sMoO9Qag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AmineH\\projects-dotnet\\catalogapp\\catalogapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AmineH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
